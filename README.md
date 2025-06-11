@@ -1,2 +1,2 @@
 # StackDrop
-Own your stack. No subscriptions.
+Like AirDrop for open-source tools (e.g. LLMs, Ollama, Supabase, Langchain) on your own hardware.
